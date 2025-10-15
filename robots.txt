@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://sitemap.procshipcn.com/sitemap.xml
+
+# Optional: speed and crawl rules (可选优化项)
+Crawl-delay: 5
